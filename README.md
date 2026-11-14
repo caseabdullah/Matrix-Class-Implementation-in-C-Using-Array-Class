@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🔢 Matrix Class Using Array Class | C++
 
 ### 📌 About the Project
@@ -80,3 +81,7 @@ Software Engineering Student
 Punjab University – FCIT
 
 **Code. Learn. Build. Repeat.** 🚀
+=======
+# Matrix-Class-Implementation-in-C-Using-Array-Class
+A custom C++ Matrix class developed using a self-implemented Array class, supporting matrix operations, mathematical properties, and manipulation functions such as addition, subtraction, multiplication, transpose, slicing, and resizing.
+>>>>>>> cfef1bba3edeff51bb88655a0d0b320e46eb2ee4
