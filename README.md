@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 🔢 Matrix Class Using Array Class | C++
 
 ### 📌 About the Project
