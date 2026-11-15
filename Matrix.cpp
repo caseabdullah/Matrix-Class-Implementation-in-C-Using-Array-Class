@@ -326,7 +326,7 @@ bool Matrix::isSkewSymmetric()  const{
 	return true;
 }
 
-Matrix Matrix::multiply(Matrix& b) const {
+Matrix Matrix::multiply(const Matrix& b) const {
 	if (cols != b.rows) {
 		Matrix empty;
 		return empty;
